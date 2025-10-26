@@ -1,0 +1,13 @@
+=== DATA INFO ===
+None
+
+=== NULL COUNTS ===
+Review_ID               0
+Rating                  0
+Year_Month           2610
+Reviewer_Location       0
+Review_Text             0
+Branch                  0
+Clean_Text              0
+Sentiment_Score         0
+dtype: int64

@@ -1,0 +1,9 @@
+count    42632.000000
+mean         0.210771
+std          0.175518
+min         -1.000000
+25%          0.104026
+50%          0.201597
+75%          0.309821
+max          1.000000
+Name: Sentiment_Score, dtype: float64
